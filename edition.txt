@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 hotfix my solution
-=======
 first edition
 second edition
 third edition
@@ -8,6 +6,5 @@ issue resolved
 Hotfix team's solution
 New function added
 Team upgraded
->>>>>>> 99e4b6fb3f4891724f0988fdf98aeea6d6e807d6
 new function added
 Upgraded
